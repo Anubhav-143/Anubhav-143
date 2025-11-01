@@ -1,28 +1,45 @@
 <!-- 🌟 Animated Header -->
 <p align="center">
-  <!-- ✅ Replaced local file (anubhav-header.svg) with hosted animated SVG -->
-  <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/refs/heads/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
 </p>
 
 ---
 
-### 👋 Hi there! I'm **Anubhav Sachan**
+<h2 align="center">👋 Hi there! I'm <b>Anubhav Sachan</b></h2>
 
-💡 *Frontend Developer | Designer | Video Editor*  
-🎯 Passionate about crafting **interactive experiences** where **design meets technology**.
-
----
-
-### ⚡ Tech Stack  
-| Category | Tools |
-|-----------|--------|
-| 💻 **Languages** | HTML • CSS • JavaScript • Python |
-| 🎨 **Design Tools** | Figma • Adobe XD • Canva |
-| 🚀 **Frameworks** | React • Tailwind CSS • Firebase • Git |
+<p align="center">
+💡 <i>Frontend Developer | Designer | Video Editor</i><br>
+🎯 Passionate about crafting <b>interactive experiences</b> where <b>design meets technology</b>.
+</p>
 
 ---
 
-### 📊 GitHub Insights  
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>💻 <b>Languages</b></td>
+    <td>HTML • CSS • JavaScript • Python</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Design Tools</b></td>
+    <td>Figma • Adobe XD • Canva</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Frameworks</b></td>
+    <td>React • Tailwind CSS • Firebase • Git</td>
+  </tr>
+</table>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <picture>
@@ -47,14 +64,18 @@
 
 ---
 
-### 🧠 Currently Learning  
-- ⚛️ Advanced React Animations  
-- 🎬 Framer Motion for UI storytelling  
-- 🔥 Firebase Integration  
+<h2 align="center">🧠 Currently Learning</h2>
+
+<p align="center">
+⚛️ Advanced React Animations <br>
+🎬 Framer Motion for UI storytelling <br>
+🔥 Firebase Integration
+</p>
 
 ---
 
-### 🧩 Let’s Connect  
+<h2 align="center">🧩 Let’s Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhavsachan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -72,13 +93,19 @@
 
 ---
 
-### 🎇 Fun Fact  
-> “Design is intelligence made visible. I build pixels that speak.”
+<h2 align="center">🎇 Fun Fact</h2>
+
+<p align="center">
+<i>“Design is intelligence made visible. I build pixels that speak.”</i>
+</p>
 
 ---
 
-### 🪄 Quote of the Day  
-> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
+<h2 align="center">🪄 Quote of the Day</h2>
+
+<p align="center">
+<i>“Design is not just what it looks like and feels like. Design is how it works.”</i> — <b>Steve Jobs</b>
+</p>
 
 ---
 
@@ -88,5 +115,7 @@
 
 ---
 
-⭐ *“Code. Create. Inspire.”*  
-<p align="center">💜 Designed with passion by <b>Anubhav Sachan</b></p>
+<p align="center">
+⭐ <b>“Code. Create. Inspire.”</b><br>
+💜 Designed with passion by <b>Anubhav Sachan</b>
+</p>
