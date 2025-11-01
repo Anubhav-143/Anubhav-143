@@ -1,6 +1,5 @@
 <!-- 🌟 Animated Header -->
 <h2 align="center">👋 Hi there! I'm </h2>
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/refs/heads/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
 </p>
