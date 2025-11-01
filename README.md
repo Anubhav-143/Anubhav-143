@@ -1,14 +1,10 @@
 <!-- 🌟 Animated Header -->
+<h2 align="center">👋 Hi there! I'm </h2>
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/refs/heads/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
 </p>
-
----
-
-<h2 align="center">👋 Hi there! I'm <b>Anubhav Sachan</b></h2>
-
 <p align="center">
-💡 <i>Frontend Developer | Designer | Video Editor</i><br>
 🎯 Passionate about crafting <b>interactive experiences</b> where <b>design meets technology</b>.
 </p>
 
