@@ -1,4 +1,4 @@
-<!-- 🟣 Animated Hero Header -->
+    <!-- Animated Header Section -->
 <p align="center">
   <svg viewBox="0 0 800 250" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -55,7 +55,7 @@
       Anubhav Sachan
     </text>
 
-    <!-- Animated Subtitle -->
+    <!-- Typing Subtitle -->
     <text id="subtitle" x="50%" y="75%" text-anchor="middle"
           font-size="22" font-family="Poppins, sans-serif"
           fill="#6B7280">
