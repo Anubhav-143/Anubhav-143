@@ -1,6 +1,5 @@
-<!-- 🌟 Animated Header -->
+<!-- 🌟 Dynamic Banner (Light & Dark Mode) -->
 <p align="center">
-  <!-- Automatically switches between dark & light banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
@@ -8,7 +7,7 @@
   </picture>
 </p>
 
-<!-- 🔮 Glowing Name Animation -->
+<!-- ✨ Glowing Name Animation -->
 <p align="center">
   <img src="anubhav-header.svg" alt="Anubhav Sachan" width="80%">
 </p>
@@ -19,27 +18,34 @@
 
 🎯 *Frontend Developer | Designer | Video Editor*  
 🌍 Based in **India**  
-💡 Passionate about creating **elegant**, **responsive**, and **interactive** user experiences.
+💡 Passionate about creating **elegant**, **responsive**, and **interactive** digital experiences.
 
 ---
 
 ## 🧠 About Me
 
-✨ I’m a **creative technologist** who blends **frontend development** and **visual design** to craft digital experiences that feel alive.  
-🎨 I love turning **modern UI concepts** into reality using **clean code**, **aesthetic layouts**, and smooth animations.  
-🎬 As a **video editor**, I also create immersive promotional visuals and motion-rich interfaces.
+✨ A **creative technologist** who blends **frontend development** and **visual design** to craft immersive interfaces.  
+🎨 I love turning **modern UI/UX concepts** into real experiences with **clean code** and **aesthetic design**.  
+🎬 As a **video editor**, I design motion-rich promotional visuals that bring stories to life.
+
+---
+
+## 🚀 Featured Projects
+
+🌐 **[Portfolio Website](#)** — A sleek and responsive personal site built with **React** and **Tailwind CSS**.  
+🎥 **[Event Promo Video](#)** — Designed and edited a dynamic promotional video using **Premiere Pro** and **CapCut**.  
+🧩 **[Sustainable Design Posters](#)** — A digital poster series promoting **eco-friendly innovation**, created with **Canva & Adobe Suite**.
+
+> ✨ *Each project reflects my passion for design, animation, and technology.*
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/Filmora-16A085?style=for-the-badge&logo=filmora&logoColor=white" />
@@ -75,11 +81,15 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-143&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-143&theme=tokyonight" width="90%" />
+</p>
+
 ---
 
 ## ✨ Fun Fact
 
-💭 *I love designing futuristic UIs and creating visuals that tell stories through light, color, and motion.*
+💭 *I love designing futuristic UIs and crafting visuals that tell stories through light, color, and motion.*
 
 ---
 
@@ -90,7 +100,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+💜;Connect+with+me+on+LinkedIn+✨;Let’s+build+something+awesome+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+💜;Connect+with+me+on+LinkedIn+✨;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
