@@ -1,4 +1,4 @@
-<!-- Animated Hero Header -->
+<!-- 🟣 Animated Hero Header -->
 <p align="center">
   <svg viewBox="0 0 800 250" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -31,16 +31,16 @@
         </feMerge>
       </filter>
 
-      <!-- Floating Orbs Gradient -->
+      <!-- Floating Orbs -->
       <radialGradient id="orbGradient" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.6" />
+        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.5" />
         <stop offset="100%" stop-color="#60A5FA" stop-opacity="0" />
       </radialGradient>
     </defs>
 
     <!-- Animated Orbs -->
     <circle cx="200" cy="120" r="90" fill="url(#orbGradient)">
-      <animateMotion dur="15s" repeatCount="indefinite" path="M0,0 C100,100 300,-100 400,0 C500,100 700,-100 800,0 Z" />
+      <animateMotion dur="16s" repeatCount="indefinite" path="M0,0 C100,100 300,-100 400,0 C500,100 700,-100 800,0 Z" />
     </circle>
     <circle cx="600" cy="100" r="70" fill="url(#orbGradient)">
       <animateMotion dur="18s" repeatCount="indefinite" path="M0,0 C-100,50 -300,-50 -400,0 C-500,50 -700,-50 -800,0 Z" />
@@ -48,14 +48,14 @@
 
     <!-- Main Title -->
     <text id="glowText" x="50%" y="55%" text-anchor="middle"
-          font-size="55" font-weight="700"
+          font-size="56" font-weight="700"
           font-family="Poppins, sans-serif"
           fill="url(#gradientLight)"
           filter="url(#glow)">
       Anubhav Sachan
     </text>
 
-    <!-- Subtitle (Typing Effect Simulation) -->
+    <!-- Animated Subtitle -->
     <text id="subtitle" x="50%" y="75%" text-anchor="middle"
           font-size="22" font-family="Poppins, sans-serif"
           fill="#6B7280">
@@ -76,12 +76,8 @@
         overflow: hidden;
       }
       @media (prefers-color-scheme: dark) {
-        #glowText {
-          fill: url(#gradientDark);
-        }
-        #subtitle {
-          fill: #D1D5DB;
-        }
+        #glowText { fill: url(#gradientDark); }
+        #subtitle { fill: #E5E7EB; }
       }
     </style>
   </svg>
@@ -90,53 +86,50 @@
 ---
 
 ### 🌟 About Me  
-Hi there! I’m **Anubhav Sachan**, a passionate **Frontend Developer, Designer, and Video Editor**.  
-I love turning ideas into interactive, eye-catching digital experiences.
+👋 Hi, I'm **Anubhav Sachan** — a passionate **Frontend Developer, Designer, and Video Editor**.  
+I love crafting interactive experiences where **design meets technology**.
 
 ---
 
 ### ⚡ Tech Stack  
 💻 **Languages:** HTML, CSS, JavaScript, Python  
 🎨 **Design Tools:** Figma, Adobe XD, Canva  
-🚀 **Frameworks & Tools:** React, Tailwind CSS, Firebase, Git
+🚀 **Frameworks:** React, Tailwind CSS, Firebase, Git
 
 ---
 
-### 📊 GitHub Stats (Dark/Light Mode Optimized)
+### 📊 GitHub Stats (Dark/Light Optimized)
 <p align="center">
-  <!-- Stats -->
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=anubhavsachan&show_icons=true&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=anubhavsachan&show_icons=true&theme=default&hide_border=true" 
-      alt="Anubhav's GitHub Stats" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Anubhav-143&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-143&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   </picture>
 </p>
 
 <p align="center">
-  <!-- Streak -->
   <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=anubhavsachan&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://streak-stats.demolab.com?user=anubhavsachan&theme=default&hide_border=true" 
-      alt="GitHub Streak" />
+    <source srcset="https://streak-stats.demolab.com?user=Anubhav-143&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://streak-stats.demolab.com?user=Anubhav-143&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-143&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-143&theme=default" width="90%" />
   </picture>
 </p>
 
 ---
 
-### 🧠 Currently Learning
-- Advanced React Animations  
-- Modern UI/UX with Framer Motion  
-- Firebase Integration
+### 🧠 Currently Learning  
+- ⚛️ Advanced React Animations  
+- 🎬 Motion Design with Framer Motion  
+- 🔥 Firebase Integration  
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhavsachan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -151,33 +144,13 @@ I love turning ideas into interactive, eye-catching digital experiences.
 
 ---
 
-⭐ *“Code. Create. Inspire.”*
-
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anubhav-143&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-143&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-143&theme=tokyonight" width="90%" />
-</p>
+### ✨ Fun Fact  
+💭 *I love creating futuristic UIs that blend color, light, and interaction.*
 
 ---
 
-## ✨ Fun Fact
-
-💭 *I love designing futuristic UIs and crafting visuals that tell stories through light, color, and motion.*
-
----
-
-## 🪄 Quote of the Day
-
-> *“Design is not just what it looks like and feels like. Design is how it works.”* — **Steve Jobs**
+### 🪄 Quote of the Day  
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
 
 ---
 
@@ -187,5 +160,5 @@ I love turning ideas into interactive, eye-catching digital experiences.
 
 ---
 
-### 🌟 Thanks for visiting!  
-⭐ **Star some repositories** or connect with me on LinkedIn 😊
+⭐ *“Code. Create. Inspire.”*  
+<p align="center">💜 Designed with passion by <b>Anubhav Sachan</b></p>
