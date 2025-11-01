@@ -1,6 +1,7 @@
 <!-- 🌟 Animated Header -->
 <p align="center">
-  <img src="anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
+  <!-- ✅ Replaced local file (anubhav-header.svg) with hosted animated SVG -->
+  <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
 </p>
 
 ---
@@ -22,6 +23,7 @@
 ---
 
 ### 📊 GitHub Insights  
+
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Anubhav-143&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -52,23 +54,26 @@
 
 ---
 
-### 🌐 Let's Connect  
+### 🧩 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhavsachan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/anubhavsachan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:anubhavsachanofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://anubhavsachan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:anubhavsachan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ✨ Fun Fact  
-💭 *I love blending design, code, and motion to craft futuristic UIs that tell a story.*
+### 🎇 Fun Fact  
+> “Design is intelligence made visible. I build pixels that speak.”
 
 ---
 
