@@ -1,4 +1,3 @@
-<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey+there+👋+I'm+Anubhav+Sachan!;Frontend+Developer+|+Designer+|+Video+Editor;Creating+Futuristic+UIs+and+Visual+Stories+💡" />
 </p>
