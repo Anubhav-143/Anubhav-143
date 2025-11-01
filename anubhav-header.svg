@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Header -->
 <p align="center">
-  <img src="anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anubhav-143/Anubhav-143/main/anubhav-header.svg" alt="Anubhav Sachan Header" width="100%" />
 </p>
 
 ---
@@ -22,6 +22,7 @@
 ---
 
 ### 📊 GitHub Insights  
+
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Anubhav-143&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
